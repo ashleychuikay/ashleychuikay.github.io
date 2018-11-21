@@ -116,10 +116,10 @@ html, body {
   font-size: 15px;
 }
 .panel-default h4 a, h5 a {
-  color: #27A822;
+  color: #2674f2;
 }
 .panel-default h4 a:hover, h5 a:hover {
-  color: #267723;
+  color: #0e65f1;
 }
 .panel{
   border-style: none;
